@@ -1,0 +1,11 @@
+.dog-container,.meme-container{
+  display: flex;
+  flex-direction: row;
+
+}
+.dog-images{
+  width: 120px;
+}
+.meme-images{
+  width: 100px;
+}
